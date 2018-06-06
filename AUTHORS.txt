@@ -1,4 +1,4 @@
-SteamWithUplay is free software and is completely the work of 
+MultiLauncher is free software and is completely the work of 
 Avimanyu Bandyopadhyay <avimanyu786@gmail.com>.
 
 You can redistribute it and/or modify it under the terms of the GNU
