@@ -1,2 +1,3 @@
-# SteamWithUplay
-Launches Steam and Uplay together
+# MultiLauncher
+
+To launch multiple gaming related applications together.
