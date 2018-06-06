@@ -1,4 +1,4 @@
-' SteamWithUplay v1.0.1 -  To launch Steam and Uplay together
+' MultiLauncher v1.0.1 -  To launch Steam and Uplay together
 ' Copyright (C) 2018 Avimanyu Bandyopadhyay
 Set shell = CreateObject("WScript.Shell")
 shell.CurrentDirectory = "C:\Program Files (x86)\Steam"
